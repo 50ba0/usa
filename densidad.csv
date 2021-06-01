@@ -1,0 +1,1205 @@
+﻿county;state;fips;population;density
+Baldwin;Alabama;1003;218022;1309
+Calhoun;Alabama;1015;114277;18997
+Chambers;Alabama;1017;33615;567
+Cullman;Alabama;1043;83442;11201
+Elmore;Alabama;1051;81887;13131
+Franklin;Alabama;1059;31363;4976
+Houston;Alabama;1069;104722;17997
+Jackson;Alabama;1071;51736;4833
+Jefferson;Alabama;1073;659300;59381
+Lamar;Alabama;1075;13844;2304
+Lauderdale;Alabama;1077;92387;13866
+Lee;Alabama;1081;163941;26219
+Limestone;Alabama;1083;96174;16618
+Madison;Alabama;1089;366519;44606
+Marion;Alabama;1093;29763;4037
+Mobile;Alabama;1097;413757;33728
+Montgomery;Alabama;1101;225763;28937
+St. Clair;Alabama;1115;88690;13816
+Shelby;Alabama;1117;215707;26915
+Talladega;Alabama;1121;79828;10935
+Tallapoosa;Alabama;1123;40497;5671
+Tuscaloosa;Alabama;1125;208911;15601
+Walker;Alabama;1127;63711;8151
+Washington;Alabama;1129;16378;1541
+Anchorage;Alaska;2020;291538;17371
+Fairbanks North Star Borough;Alaska;2090;98971;1358
+Juneau City and Borough;Alaska;2110;32113;1197
+Kenai Peninsula Borough;Alaska;2122;58533;362
+Ketchikan Gateway Borough;Alaska;2130;13918;284
+Matanuska-Susitna Borough;Alaska;2170;107610;42
+Apache;Arizona;4001;71818;639
+Cochise;Arizona;4003;126770;2048
+Coconino;Arizona;4005;142854;753
+Graham;Arizona;4009;38072;819
+Maricopa;Arizona;4013;4410824;46237
+Navajo;Arizona;4017;110445;1092
+Pima;Arizona;4019;1039073;111
+Pinal;Arizona;4021;447138;7822
+Santa Cruz;Arizona;4023;46511;3766
+Yavapai;Arizona;4025;231993;2765
+Yuma;Arizona;4027;212128;3769
+Benton;Arkansas;5007;272608;30563
+Boone;Arkansas;5009;37480;6318
+Bradley;Arkansas;5011;10897;1686
+Clark;Arkansas;5019;22061;2585
+Cleburne;Arkansas;5023;24965;4557
+Cleveland;Arkansas;5025;8018;1376
+Craighead;Arkansas;5031;108558;14946
+Crittenden;Arkansas;5035;48342;8038
+Desha;Arkansas;5041;11512;1547
+Faulkner;Arkansas;5045;124806;18895
+Garland;Arkansas;5051;99154;14503
+Grant;Arkansas;5053;18188;2863
+Greene;Arkansas;5055;45325;7724
+Independence;Arkansas;5063;37678;4878
+Jefferson;Arkansas;5069;68114;8088
+Lincoln;Arkansas;5079;13383;2439
+Poinsett;Arkansas;5111;23974;3172
+Polk;Arkansas;5113;20049;2351
+Pope;Arkansas;5115;64000;7833
+Pulaski;Arkansas;5119;392680;51788
+Saline;Arkansas;5125;121421;16309
+Searcy;Arkansas;5129;7958;1189
+Sebastian;Arkansas;5131;127753;23963
+Sevier;Arkansas;5133;17139;3042
+Van Buren;Arkansas;5141;16603;2356
+Washington;Arkansas;5143;236961;24261
+Alameda;California;6001;1666753;222417
+Amador;California;6005;39383;6362
+Butte;California;6007;231256;13876
+Contra Costa;California;6013;1150215;158289
+El Dorado;California;6017;190678;10929
+Fresno;California;6019;994400;16417
+Humboldt;California;6023;136373;3805
+Imperial;California;6025;181827;4315
+Kern;California;6029;896764;10859
+Los Angeles;California;6037;10105518;24885
+Madera;California;6039;157672;7254
+Marin;California;6041;259666;50027
+Mendocino;California;6045;87606;2493
+Monterey;California;6053;435594;13205
+Napa;California;6055;139417;18778
+Nevada;California;6057;99696;10346
+Orange;California;6059;3185968;400242
+Placer;California;6061;393149;27013
+Riverside;California;6065;2450758;33071
+Sacramento;California;6067;1540975;156537
+San Benito;California;6069;61537;4279
+San Bernardino;California;6071;2171603;10647
+San Diego;California;6073;3343364;78515
+San Francisco;California;6075;883305;1856181
+San Joaquin;California;6077;752660;52627
+San Luis Obispo;California;6079;284010;8533
+San Mateo;California;6081;769545;170812
+Santa Barbara;California;6083;446527;16224
+Santa Clara;California;6085;1937570;148996
+Santa Cruz;California;6087;274255;61497
+Shasta;California;6089;180040;4743
+Siskiyou;California;6093;43724;694
+Solano;California;6095;446610;53364
+Sonoma;California;6097;499942;31813
+Stanislaus;California;6099;549815;36078
+Tulare;California;6107;465861;9545
+Ventura;California;6111;850967;46015
+Yolo;California;6113;220408;21186
+Yuba;California;6115;78041;11948
+Adams;Colorado;8001;511868;42574
+Arapahoe;Colorado;8005;651215;79773
+Boulder;Colorado;8013;326078;44201
+Broomfield;Colorado;8014;69267;200158
+Chaffee;Colorado;8015;20027;1891
+Clear Creek;Colorado;8019;9605;2373
+Crowley;Colorado;8025;5858;715
+Denver;Colorado;8031;716492;453213
+Douglas;Colorado;8035;342776;39109
+Eagle;Colorado;8037;54993;3227
+Elbert;Colorado;8039;26282;1359
+El Paso;Colorado;8041;713856;32356
+Garfield;Colorado;8045;59770;1986
+Grand;Colorado;8049;15525;816
+Gunnison;Colorado;8051;17246;511
+Hinsdale;Colorado;8053;811;79
+Jefferson;Colorado;8059;580233;74643
+La Plata;Colorado;8067;56310;3256
+Larimer;Colorado;8069;350518;13026
+Logan;Colorado;8075;21528;118
+Mesa;Colorado;8077;153207;4506
+Montrose;Colorado;8085;42214;1842
+Morgan;Colorado;8087;28558;2207
+Park;Colorado;8093;18556;793
+Pitkin;Colorado;8097;17950;1845
+Pueblo;Colorado;8101;167529;6902
+Routt;Colorado;8107;25733;1053
+San Miguel;Colorado;8113;8191;619
+Summit;Colorado;8117;31007;5002
+Teller;Colorado;8119;25083;4329
+Weld;Colorado;8123;314305;7402
+Yuma;Colorado;8125;10020;426
+Fairfield;Connecticut;9001;943823;151122
+Hartford;Connecticut;9003;892697;121716
+Litchfield;Connecticut;9005;181111;19883
+Middlesex;Connecticut;9007;162682;44237
+New Haven;Connecticut;9009;857620;142156
+New London;Connecticut;9011;266784;40441
+Tolland;Connecticut;9013;150921;36876
+Windham;Connecticut;9015;117027;22721
+Kent;Delaware;10001;178550;29824
+New Castle;Delaware;10003;559335;130226
+Sussex;Delaware;10005;229286;23453
+District of Columbia;District of Columbia;11001;702455;1121238
+Alachua;Florida;12001;269956;30073
+Baker;Florida;12003;28355;4748
+Bay;Florida;12005;185287;2406
+Bradford;Florida;12007;27732;9178
+Brevard;Florida;12009;596849;56791
+Broward;Florida;12011;1951260;157809
+Charlotte;Florida;12015;184998;26012
+Citrus;Florida;12017;147929;24598
+Clay;Florida;12019;216072;34299
+Collier;Florida;12021;378488;18211
+Columbia;Florida;12023;70503;8664
+DeSoto;Florida;12027;37489;5714
+Duval;Florida;12031;950181;121259
+Escambia;Florida;12033;315534;47455
+Flagler;Florida;12035;112067;2207
+Hernando;Florida;12053;190865;38663
+Highlands;Florida;12055;105424;10043
+Hillsborough;Florida;12057;1436888;135156
+Indian River;Florida;12061;157413;30024
+Jackson;Florida;12063;48305;5282
+Lake;Florida;12069;356495;35738
+Lee;Florida;12071;754610;91608
+Leon;Florida;12073;292502;43203
+Manatee;Florida;12081;394855;50321
+Marion;Florida;12083;359977;21986
+Martin;Florida;12085;160912;28996
+Miami-Dade;Florida;12086;2761581;143094
+Monroe;Florida;12087;75027;7762
+Nassau;Florida;12089;85832;12423
+Okaloosa;Florida;12091;207269;21579
+Orange;Florida;12095;1380645;146242
+Osceola;Florida;12097;367990;25509
+Palm Beach;Florida;12099;1485941;73424
+Pasco;Florida;12101;539630;68363
+Pinellas;Florida;12103;975280;349846
+Polk;Florida;12105;708009;37193
+Putnam;Florida;12107;74163;10001
+St. Johns;Florida;12109;254261;39208
+St. Lucie;Florida;12111;321128;53432
+Santa Rosa;Florida;12113;179349;16849
+Sarasota;Florida;12115;426718;74144
+Seminole;Florida;12117;467832;147172
+Sumter;Florida;12119;128754;22123
+Volusia;Florida;12127;547538;47922
+Walton;Florida;12131;71375;6347
+Baldwin;Georgia;13009;44823;17563
+Barrow;Georgia;13013;80809;47962
+Bartow;Georgia;13015;106408;22548
+Bibb;Georgia;13021;153095;61455
+Burke;Georgia;13033;22423;2727
+Butts;Georgia;13035;24193;1288
+Carroll;Georgia;13045;118121;23247
+Catoosa;Georgia;13047;67420;40885
+Charlton;Georgia;13049;12968;1678
+Chatham;Georgia;13051;289195;67313
+Chattooga;Georgia;13055;24790;792
+Cherokee;Georgia;13057;254149;57369
+Clarke;Georgia;13059;127330;104532
+Clayton;Georgia;13063;289615;19684
+Clinch;Georgia;13065;6648;843
+Cobb;Georgia;13067;756865;219425
+Coffee;Georgia;13069;43093;747
+Columbia;Georgia;13073;154291;50776
+Coweta;Georgia;13077;145864;31871
+Dawson;Georgia;13085;25083;11318
+DeKalb;Georgia;13089;756558;277742
+Dougherty;Georgia;13095;91243;27701
+Douglas;Georgia;13097;145331;70896
+Early;Georgia;13099;10247;2019
+Effingham;Georgia;13103;62190;12286
+Fayette;Georgia;13113;113459;57306
+Floyd;Georgia;13115;97927;18988
+Forsyth;Georgia;13117;236612;98152
+Fulton;Georgia;13121;1050114;194044
+Glynn;Georgia;13127;85219;20006
+Gordon;Georgia;13129;57685;15961
+Gwinnett;Georgia;13135;927781;20965
+Hall;Georgia;13139;202148;49891
+Harris;Georgia;13145;34475;7241
+Heard;Georgia;13149;11879;3945
+Henry;Georgia;13151;230220;68702
+Houston;Georgia;13153;155469;4039
+Lamar;Georgia;13171;19000;10089
+Laurens;Georgia;13175;47325;5874
+Lee;Georgia;13177;29764;8249
+Liberty;Georgia;13179;61497;1268
+Lincoln;Georgia;13181;7915;3707
+Lowndes;Georgia;13185;116321;23098
+Lumpkin;Georgia;13187;32955;11293
+Madison;Georgia;13195;29650;10237
+Miller;Georgia;13201;5686;2066
+Monroe;Georgia;13207;27520;6827
+Morgan;Georgia;13211;18853;525
+Muscogee;Georgia;13215;194160;90889
+Newton;Georgia;13217;109541;3913
+Oconee;Georgia;13219;39272;20086
+Paulding;Georgia;13223;164044;49914
+Peach;Georgia;13225;27297;17945
+Pickens;Georgia;13227;31980;13286
+Pierce;Georgia;13229;19389;6055
+Polk;Georgia;13233;42470;13412
+Randolph;Georgia;13243;6833;1655
+Richmond;Georgia;13245;201554;62117
+Rockdale;Georgia;13247;90594;68579
+Spalding;Georgia;13255;66100;32941
+Sumter;Georgia;13261;29733;6288
+Tattnall;Georgia;13267;25391;5288
+Terrell;Georgia;13273;8611;2641
+Tift;Georgia;13277;40571;15646
+Troup;Georgia;13285;70034;16854
+Turner;Georgia;13287;7912;279
+Twiggs;Georgia;13289;8188;2311
+Washington;Georgia;13303;20386;3016
+Whitfield;Georgia;13313;104062;35753
+Worth;Georgia;13321;20299;3619
+Hawaii;Hawaii;15001;200983;4907
+Honolulu;Hawaii;15003;980080;164403
+Kauai;Hawaii;15007;72133;11513
+Maui;Hawaii;15009;167207;1423
+Ada;Idaho;16001;469966;42377
+Bingham;Idaho;16011;46236;2175
+Blaine;Idaho;16013;22601;832
+Canyon;Idaho;16027;223499;36132
+Kootenai;Idaho;16055;161505;12346
+Madison;Idaho;16065;39304;8249
+Teton;Idaho;16081;11640;2465
+Twin Falls;Idaho;16083;86081;4355
+Valley;Idaho;16085;11041;284
+Adams;Illinois;17001;65691;7767
+Champaign;Illinois;17019;209983;21023
+Christian;Illinois;17021;32661;4685
+Clinton;Illinois;17027;37639;7937
+Cook;Illinois;17031;5180493;552584
+Cumberland;Illinois;17035;10808;314
+DeKalb;Illinois;17037;104143;16505
+DuPage;Illinois;17043;928589;284503
+Jackson;Illinois;17077;57419;10024
+Jo Daviess;Illinois;17085;21366;3632
+Kane;Illinois;17089;534216;102073
+Kankakee;Illinois;17091;110024;16416
+Kendall;Illinois;17093;127915;38905
+Lake;Illinois;17097;700832;158591
+LaSalle;Illinois;17099;109430;9726
+Livingston;Illinois;17105;35761;3478
+McHenry;Illinois;17111;308570;51028
+McLean;Illinois;17113;172828;14638
+Madison;Illinois;17119;264461;37126
+Monroe;Illinois;17133;34335;8814
+Peoria;Illinois;17143;180621;2979
+Rock Island;Illinois;17161;143477;33972
+St. Clair;Illinois;17163;261059;40055
+Sangamon;Illinois;17167;195348;22764
+Stephenson;Illinois;17177;44753;8048
+Washington;Illinois;17189;13995;2516
+Whiteside;Illinois;17195;55626;8242
+Will;Illinois;17197;692310;82291
+Williamson;Illinois;17199;67056;16018
+Winnebago;Illinois;17201;284081;55745
+Woodford;Illinois;17203;38463;7355
+Adams;Indiana;18001;35636;10381
+Allen;Indiana;18003;375351;56293
+Bartholomew;Indiana;18005;82753;20126
+Boone;Indiana;18011;66999;15209
+Clark;Indiana;18019;117360;31031
+Delaware;Indiana;18035;114772;29485
+Dubois;Indiana;18037;42565;9928
+Elkhart;Indiana;18039;205560;43959
+Fayette;Indiana;18041;23047;10817
+Floyd;Indiana;18043;77781;51921
+Franklin;Indiana;18047;22736;5942
+Grant;Indiana;18053;65936;16167
+Hamilton;Indiana;18057;330086;80173
+Hancock;Indiana;18059;76351;24126
+Harrison;Indiana;18061;40350;8196
+Hendricks;Indiana;18063;167009;39552
+Howard;Indiana;18067;82366;28113
+Jennings;Indiana;18079;27611;7363
+Johnson;Indiana;18081;156225;47301
+Lake;Indiana;18089;484411;97573
+LaPorte;Indiana;18091;110007;18478
+Madison;Indiana;18095;129641;28657
+Marion;Indiana;18097;954670;238336
+Miami;Indiana;18103;35567;9603
+Monroe;Indiana;18105;146917;36857
+Morgan;Indiana;18109;70116;1726
+Noble;Indiana;18113;47532;1155
+Owen;Indiana;18119;20845;5419
+Putnam;Indiana;18133;37779;7816
+Ripley;Indiana;18137;28523;6367
+St. Joseph;Indiana;18141;270771;58805
+Scott;Indiana;18143;23878;1247
+Shelby;Indiana;18145;44593;10799
+Tippecanoe;Indiana;18157;193048;37873
+Tipton;Indiana;18159;15128;5841
+Vanderburgh;Indiana;18163;180974;77658
+Vigo;Indiana;18167;107386;26702
+Washington;Indiana;18175;27943;5417
+Wayne;Indiana;18177;65936;16581
+Wells;Indiana;18179;28206;7592
+Adair;Iowa;19001;7063;1251
+Allamakee;Iowa;19005;13832;2172
+Black Hawk;Iowa;19013;132408;23509
+Carroll;Iowa;19027;20154;3573
+Cerro Gordo;Iowa;19033;42647;7563
+Dallas;Iowa;19049;90180;14275
+Dubuque;Iowa;19061;96854;15913
+Fayette;Iowa;19065;19660;2727
+Hancock;Iowa;19081;10712;1907
+Harrison;Iowa;19085;14134;203
+Henry;Iowa;19087;20067;4588
+Johnson;Iowa;19103;151260;2394
+Kossuth;Iowa;19109;14908;155
+Linn;Iowa;19113;225909;30984
+Muscatine;Iowa;19139;42929;9818
+Polk;Iowa;19153;487204;82656
+Pottawattamie;Iowa;19155;93533;984
+Poweshiek;Iowa;19157;18699;3181
+Scott;Iowa;19163;173283;3761
+Sioux;Iowa;19167;34909;4533
+Story;Iowa;19169;98105;1692
+Tama;Iowa;19171;16904;2377
+Wapello;Iowa;19179;35205;8178
+Washington;Iowa;19183;22141;3893
+Winneshiek;Iowa;19191;20029;2957
+Woodbury;Iowa;19193;102539;11732
+Bourbon;Kansas;20011;14653;2314
+Butler;Kansas;20015;66765;4649
+Cherokee;Kansas;20021;20015;346
+Douglas;Kansas;20045;121436;26174
+Ford;Kansas;20057;33888;314
+Franklin;Kansas;20059;25631;4471
+Jackson;Kansas;20085;13280;203
+Johnson;Kansas;20091;597555;123687
+Leavenworth;Kansas;20103;81352;17294
+Linn;Kansas;20107;9750;1622
+Lyon;Kansas;20111;33406;3929
+Mitchell;Kansas;20123;6150;887
+Morris;Kansas;20127;5521;801
+Reno;Kansas;20155;62342;5027
+Riley;Kansas;20161;73703;12348
+Sedgwick;Kansas;20173;513607;51334
+Wyandotte;Kansas;20209;165324;108407
+Allen;Kentucky;21003;21122;6039
+Anderson;Kentucky;21005;22663;11006
+Bourbon;Kentucky;21017;20184;6953
+Breathitt;Kentucky;21025;12726;2664
+Calloway;Kentucky;21035;39135;10071
+Christian;Kentucky;21047;71671;10071
+Clark;Kentucky;21049;36249;14209
+Daviess;Kentucky;21059;101104;21804
+Fayette;Kentucky;21067;323780;112369
+Franklin;Kentucky;21073;50815;2421
+Hardin;Kentucky;21093;110356;17343
+Harrison;Kentucky;21097;18778;6093
+Henderson;Kentucky;21101;45591;10566
+Jefferson;Kentucky;21111;770517;201662
+Jessamine;Kentucky;21113;53920;30457
+Kenton;Kentucky;21117;166051;10277
+Logan;Kentucky;21141;26989;4863
+Lyon;Kentucky;21143;8009;3828
+Madison;Kentucky;21151;92368;20513
+Montgomery;Kentucky;21173;28203;14065
+Nelson;Kentucky;21179;45851;10871
+Oldham;Kentucky;21185;66470;34919
+Pulaski;Kentucky;21199;64623;9742
+Scott;Kentucky;21209;56031;18993
+Spencer;Kentucky;21215;18794;9774
+Warren;Kentucky;21227;131264;23343
+Acadia;Louisiana;22001;62190;9551
+Allen;Louisiana;22003;25605;3368
+Ascension;Louisiana;22005;124672;41788
+Assumption;Louisiana;22007;22300;6707
+Avoyelles;Louisiana;22009;40462;4911
+Beauregard;Louisiana;22011;37253;3177
+Bienville;Louisiana;22013;13308;1685
+Bossier;Louisiana;22015;127185;15015
+Caddo;Louisiana;22017;242922;2827
+Calcasieu;Louisiana;22019;203112;1882
+Catahoula;Louisiana;22025;9608;1397
+Claiborne;Louisiana;22027;15944;214
+De Soto;Louisiana;22031;27436;3108
+East Baton Rouge;Louisiana;22033;440956;97523
+Evangeline;Louisiana;22039;33443;5078
+Grant;Louisiana;22043;22482;3475
+Iberia;Louisiana;22045;70941;12661
+Iberville;Louisiana;22047;32721;5327
+Jefferson;Louisiana;22051;434051;147244
+Lafayette;Louisiana;22055;242782;89346
+Lafourche;Louisiana;22057;98115;9194
+Lincoln;Louisiana;22061;47196;10039
+Livingston;Louisiana;22063;139567;21308
+Natchitoches;Louisiana;22069;38659;3111
+Orleans;Louisiana;22071;391006;229985
+Ouachita;Louisiana;22073;154475;25569
+Plaquemines;Louisiana;22075;23410;2997
+Rapides;Louisiana;22079;130562;9981
+Richland;Louisiana;22083;20192;3662
+St. Bernard;Louisiana;22087;46721;12104
+St. Charles;Louisiana;22089;52879;18892
+St. James;Louisiana;22093;21037;8842
+St. John the Baptist;Louisiana;22095;43184;2039
+St. Landry;Louisiana;22097;82764;9032
+St. Martin;Louisiana;22099;53621;7287
+St. Mary;Louisiana;22101;49774;9315
+St. Tammany;Louisiana;22103;258111;29814
+Tangipahoa;Louisiana;22105;133777;16493
+Terrebonne;Louisiana;22109;111021;914
+Washington;Louisiana;22117;46582;6939
+Webster;Louisiana;22119;38798;6683
+West Baton Rouge;Louisiana;22121;26427;13441
+Androscoggin;Maine;23001;107679;22962
+Cumberland;Maine;23005;293557;34834
+Kennebec;Maine;23011;122083;14011
+Knox;Maine;23013;39771;10906
+Lincoln;Maine;23015;34342;7474
+Oxford;Maine;23017;57618;276
+Penobscot;Maine;23019;151096;4467
+Sagadahoc;Maine;23023;35634;13905
+York;Maine;23031;206229;20501
+Anne Arundel;Maryland;24003;576031;136827
+Baltimore;Maryland;24005;828431;138329
+Calvert;Maryland;24009;92003;42731
+Caroline;Maryland;24011;33304;10292
+Carroll;Maryland;24013;168429;37427
+Cecil;Maryland;24015;102826;29606
+Charles;Maryland;24017;161503;34445
+Frederick;Maryland;24021;255648;37635
+Garrett;Maryland;24023;29163;454
+Harford;Maryland;24025;253956;57431
+Howard;Maryland;24027;323196;125758
+Montgomery;Maryland;24031;1052567;21173
+Prince George's;Maryland;24033;909308;18774
+Queen Anne's;Maryland;24035;50251;13271
+St. Mary's;Maryland;24037;112664;31225
+Somerset;Maryland;24039;25675;805
+Talbot;Maryland;24041;36968;13857
+Washington;Maryland;24043;150926;32726
+Wicomico;Maryland;24045;103195;27286
+Worcester;Maryland;24047;51823;11011
+Baltimore city;Maryland;24510;602495;759417
+Barnstable;Massachusetts;25001;213413;54274
+Berkshire;Massachusetts;25003;126348;13738
+Bristol;Massachusetts;25005;564022;10105
+Essex;Massachusetts;25009;790638;158563
+Franklin;Massachusetts;25011;70963;10143
+Hampden;Massachusetts;25013;470406;76014
+Hampshire;Massachusetts;25015;161355;30566
+Middlesex;Massachusetts;25017;1614714;195055
+Nantucket;Massachusetts;25019;11327;24685
+Norfolk;Massachusetts;25021;705388;176279
+Plymouth;Massachusetts;25023;518132;77705
+Suffolk;Massachusetts;25025;807252;1361492
+Worcester;Massachusetts;25027;830839;54428
+Allegan;Michigan;26005;117327;13966
+Barry;Michigan;26015;61157;10858
+Bay;Michigan;26017;103923;23691
+Berrien;Michigan;26021;154141;27267
+Calhoun;Michigan;26025;134487;19041
+Charlevoix;Michigan;26029;26244;6298
+Chippewa;Michigan;26033;37517;2428
+Clare;Michigan;26035;30757;5425
+Clinton;Michigan;26037;79332;13753
+Eaton;Michigan;26045;109826;18978
+Emmet;Michigan;26047;33308;7067
+Genesee;Michigan;26049;406892;64266
+Gladwin;Michigan;26051;25337;504
+Grand Traverse;Michigan;26055;92573;19759
+Ingham;Michigan;26065;292735;52069
+Jackson;Michigan;26075;158823;22648
+Kalamazoo;Michigan;26077;264870;46572
+Kent;Michigan;26081;653786;75936
+Leelanau;Michigan;26089;21764;6233
+Livingston;Michigan;26093;191224;33345
+Macomb;Michigan;26099;874759;181273
+Midland;Michigan;26111;83209;16153
+Monroe;Michigan;26115;150439;27248
+Montcalm;Michigan;26117;63968;8961
+Muskegon;Michigan;26121;173588;34661
+Newaygo;Michigan;26123;48892;592
+Oakland;Michigan;26125;1259201;144162
+Otsego;Michigan;26137;24665;4738
+Ottawa;Michigan;26139;290494;50408
+Roscommon;Michigan;26143;23884;4595
+Saginaw;Michigan;26145;190800;24094
+St. Clair;Michigan;26147;159337;22126
+Tuscola;Michigan;26157;52516;663
+Washtenaw;Michigan;26161;370963;51838
+Wayne;Michigan;26163;1753893;28777
+Wexford;Michigan;26165;33466;586
+Anoka;Minnesota;27003;353813;82133
+Benton;Minnesota;27009;40545;9743
+Big Stone;Minnesota;27011;4989;1005
+Blue Earth;Minnesota;27013;67427;8868
+Carver;Minnesota;27019;103551;2834
+Cass;Minnesota;27021;29519;1436
+Chisago;Minnesota;27025;55922;13192
+Clay;Minnesota;27027;63955;6008
+Dakota;Minnesota;27037;425423;74391
+Dodge;Minnesota;27039;20822;4685
+Fillmore;Minnesota;27045;21058;2425
+Hennepin;Minnesota;27053;1259428;223175
+Jackson;Minnesota;27063;9911;1429
+Lac qui Parle;Minnesota;27073;6658;885
+Le Sueur;Minnesota;27079;28494;6236
+Martin;Minnesota;27091;19785;2803
+Mower;Minnesota;27099;40011;5567
+Nicollet;Minnesota;27103;34220;7533
+Olmsted;Minnesota;27109;156277;23428
+Ramsey;Minnesota;27123;550210;355748
+Renville;Minnesota;27129;14612;1498
+Rice;Minnesota;27131;66523;13268
+St. Louis;Minnesota;27137;199754;3203
+Scott;Minnesota;27139;147381;40219
+Sherburne;Minnesota;27141;96036;21536
+Stearns;Minnesota;27145;159256;11676
+Steele;Minnesota;27147;36803;8536
+Wabasha;Minnesota;27157;21645;4111
+Waseca;Minnesota;27161;18691;4443
+Washington;Minnesota;27163;259201;6592
+Wright;Minnesota;27171;136349;20069
+Adams;Mississippi;28001;31192;6822
+Attala;Mississippi;28007;18365;2528
+Bolivar;Mississippi;28011;31333;3718
+Chickasaw;Mississippi;28017;17171;3444
+Clay;Mississippi;28025;19386;483
+Coahoma;Mississippi;28027;22628;4309
+Copiah;Mississippi;28029;28543;3695
+DeSoto;Mississippi;28033;182001;36991
+Forrest;Mississippi;28035;75036;16194
+Franklin;Mississippi;28037;7788;1376
+George;Mississippi;28039;24250;4953
+Grenada;Mississippi;28043;21055;5041
+Hancock;Mississippi;28045;47334;9848
+Harrison;Mississippi;28047;206650;35301
+Hinds;Mississippi;28049;237085;27798
+Holmes;Mississippi;28051;17622;2389
+Humphreys;Mississippi;28053;8257;204
+Itawamba;Mississippi;28057;23517;4407
+Jackson;Mississippi;28059;143277;19649
+Jones;Mississippi;28067;68461;9852
+Lafayette;Mississippi;28071;54793;8463
+Lamar;Mississippi;28073;62447;12317
+Lawrence;Mississippi;28077;12455;2933
+Leake;Mississippi;28079;22763;3923
+Lee;Mississippi;28081;85202;18872
+Leflore;Mississippi;28083;28919;503
+Lincoln;Mississippi;28085;34205;5875
+Lowndes;Mississippi;28087;58930;11758
+Madison;Mississippi;28089;105630;14485
+Marion;Mississippi;28091;24715;4647
+Marshall;Mississippi;28093;35451;5068
+Monroe;Mississippi;28095;35564;4684
+Montgomery;Mississippi;28097;10023;2506
+Oktibbeha;Mississippi;28105;49599;10799
+Panola;Mississippi;28107;34178;4998
+Pearl River;Mississippi;28109;55387;6801
+Perry;Mississippi;28111;11931;1858
+Pike;Mississippi;28113;39563;9715
+Pontotoc;Mississippi;28115;31833;6292
+Rankin;Mississippi;28121;153902;19503
+Scott;Mississippi;28123;28287;4664
+Simpson;Mississippi;28127;26758;4595
+Smith;Mississippi;28129;16002;2525
+Sunflower;Mississippi;28133;25735;3802
+Tallahatchie;Mississippi;28135;13987;2226
+Tate;Mississippi;28137;28759;704
+Tippah;Mississippi;28139;21995;4803
+Tunica;Mississippi;28143;9944;2237
+Union;Mississippi;28145;28606;6823
+Walthall;Mississippi;28147;14465;3615
+Washington;Mississippi;28151;45063;6497
+Webster;Mississippi;28155;9788;2335
+Wilkinson;Mississippi;28157;8792;1326
+Winston;Mississippi;28159;18165;3023
+Yazoo;Mississippi;28163;28248;3031
+Adair;Missouri;29001;25339;4464
+Bates;Missouri;29013;16320;1957
+Boone;Missouri;29019;180005;25753
+Callaway;Missouri;29027;44889;5373
+Camden;Missouri;29029;45815;6875
+Cass;Missouri;29037;104954;14735
+Christian;Missouri;29043;86983;14978
+Clay;Missouri;29047;246365;60198
+Clinton;Missouri;29049;20470;4887
+Cole;Missouri;29051;76796;1949
+Dunklin;Missouri;29069;29423;5624
+Greene;Missouri;29077;291923;42711
+Henry;Missouri;29083;21792;3123
+Jackson;Missouri;29095;700307;114482
+Jasper;Missouri;29097;120636;18675
+Johnson;Missouri;29101;53652;6474
+Lafayette;Missouri;29107;32598;5186
+Moniteau;Missouri;29135;16121;3845
+Perry;Missouri;29157;19150;4036
+Pulaski;Missouri;29169;52014;9613
+St. Charles;Missouri;29183;399182;69586
+St. Francois;Missouri;29187;66692;14681
+St. Louis;Missouri;29189;996945;196669
+Scott;Missouri;29201;38458;9221
+Taney;Missouri;29213;55852;8652
+St. Louis city;Missouri;29510;302838;502792
+Broadwater;Montana;30007;6085;489
+Cascade;Montana;30013;81643;303
+Flathead;Montana;30029;102106;1928
+Gallatin;Montana;30031;111876;4024
+Lewis and Clark;Montana;30049;68700;1939
+Madison;Montana;30057;8768;229
+Missoula;Montana;30063;118791;4472
+Ravalli;Montana;30081;43172;1753
+Roosevelt;Montana;30085;11059;477
+Silver Bow;Montana;30093;34993;4846
+Yellowstone;Montana;30111;160137;5993
+Adams;Nebraska;31001;31511;5607
+Buffalo;Nebraska;31019;49615;5064
+Cass;Nebraska;31025;26159;4611
+Dawson;Nebraska;31047;23709;235
+Douglas;Nebraska;31055;566880;168971
+Knox;Nebraska;31107;8419;763
+Lancaster;Nebraska;31109;317272;37024
+Lincoln;Nebraska;31111;35185;1382
+Madison;Nebraska;31119;35392;614
+Nemaha;Nebraska;31127;6958;1719
+Sarpy;Nebraska;31153;184459;74627
+Washington;Nebraska;31177;20667;5185
+Clark;Nevada;32003;2231647;27138
+Douglas;Nevada;32005;48467;6739
+Elko;Nevada;32007;52460;304
+Nye;Nevada;32023;45346;24
+Washoe;Nevada;32031;465735;7148
+Carson City;Nevada;32510;55414;37651
+Belknap;New Hampshire;33001;61022;15151
+Carroll;New Hampshire;33003;48779;5138
+Cheshire;New Hampshire;33005;76493;10792
+Grafton;New Hampshire;33009;89786;5256
+Hillsborough;New Hampshire;33011;415247;4692
+Merrimack;New Hampshire;33013;151132;15999
+Rockingham;New Hampshire;33015;309176;43921
+Strafford;New Hampshire;33017;130090;34755
+Sullivan;New Hampshire;33019;43144;8026
+Atlantic;New Jersey;34001;265429;48324
+Bergen;New Jersey;34003;936692;399126
+Burlington;New Jersey;34005;445384;55895
+Camden;New Jersey;34007;507078;229305
+Cape May;New Jersey;34009;92560;3727
+Cumberland;New Jersey;34011;150972;31714
+Essex;New Jersey;34013;799767;628746
+Gloucester;New Jersey;34015;291408;90325
+Hudson;New Jersey;34017;676061;1447535
+Hunterdon;New Jersey;34019;124714;2923
+Mercer;New Jersey;34021;369811;164217
+Middlesex;New Jersey;34023;829685;267614
+Monmouth;New Jersey;34025;621354;132977
+Morris;New Jersey;34027;494228;107433
+Ocean;New Jersey;34029;601651;94141
+Passaic;New Jersey;34031;503310;273056
+Salem;New Jersey;34033;62607;19083
+Somerset;New Jersey;34035;331164;109397
+Sussex;New Jersey;34037;140799;27417
+Union;New Jersey;34039;558067;537714
+Warren;New Jersey;34041;105779;29781
+Bernalillo;New Mexico;35001;678701;5838
+Chaves;New Mexico;35005;64689;1079
+DoÃ±a Ana;New Mexico;35013;217522;5656
+Lea;New Mexico;35025;69611;1597
+McKinley;New Mexico;35031;72290;1337
+Sandoval;New Mexico;35043;145179;3794
+San Juan;New Mexico;35045;125043;2312
+San Miguel;New Mexico;35047;27591;594
+Santa Fe;New Mexico;35049;150056;7799
+Socorro;New Mexico;35053;16735;256
+Taos;New Mexico;35055;32835;1493
+Albany;New York;36001;307117;58803
+Allegany;New York;36003;46430;4569
+Broome;New York;36007;191659;27545
+Cayuga;New York;36011;77145;11259
+Chenango;New York;36017;47536;5411
+Clinton;New York;36019;80695;7785
+Columbia;New York;36021;59916;9598
+Cortland;New York;36023;47823;9649
+Delaware;New York;36025;44527;3155
+Dutchess;New York;36027;293718;36939
+Erie;New York;36029;919719;8822
+Essex;New York;36031;37300;2104
+Fulton;New York;36035;53591;10847
+Genesee;New York;36037;57511;11789
+Greene;New York;36039;47491;7358
+Hamilton;New York;36041;4434;266
+Herkimer;New York;36043;61833;4428
+Jefferson;New York;36045;111755;9022
+Livingston;New York;36051;63227;10116
+Madison;New York;36053;70795;10897
+Monroe;New York;36055;742474;113244
+Montgomery;New York;36057;49455;12263
+Nassau;New York;36059;1358343;476462
+Niagara;New York;36063;210433;40528
+Oneida;New York;36065;229577;19035
+Onondaga;New York;36067;461809;59641
+Ontario;New York;36069;109864;16997
+Orange;New York;36071;381951;46598
+Oswego;New York;36075;117898;12516
+Otsego;New York;36077;59749;6014
+Putnam;New York;36079;98892;43016
+Rensselaer;New York;36083;159442;24436
+Rockland;New York;36087;325695;186509
+St. Lawrence;New York;36089;108047;4087
+Saratoga;New York;36091;230163;28072
+Schenectady;New York;36093;155350;75732
+Schoharie;New York;36095;31097;5044
+Steuben;New York;36101;95796;697
+Suffolk;New York;36103;1481093;163138
+Sullivan;New York;36105;75498;7769
+Tioga;New York;36107;48560;9457
+Tompkins;New York;36109;102793;21692
+Ulster;New York;36111;178599;15949
+Warren;New York;36113;64265;7438
+Washington;New York;36115;61197;7439
+Wayne;New York;36117;90064;15047
+Westchester;New York;36119;967612;225046
+Wyoming;New York;36121;40085;6844
+Alamance;North Carolina;37001;166436;37877
+Brunswick;North Carolina;37019;136744;14978
+Buncombe;North Carolina;37021;259103;38752
+Cabarrus;North Carolina;37025;211342;55687
+Carteret;North Carolina;37031;69524;13614
+Catawba;North Carolina;37035;158652;39308
+Chatham;North Carolina;37037;73139;10231
+Cherokee;North Carolina;37039;28383;6075
+Craven;North Carolina;37049;102912;1454
+Cumberland;North Carolina;37051;332330;50912
+Davidson;North Carolina;37057;166614;29794
+Davie;North Carolina;37059;42733;15899
+Durham;North Carolina;37063;316739;107162
+Forsyth;North Carolina;37067;379099;91039
+Franklin;North Carolina;37069;67560;132
+Gaston;North Carolina;37071;222846;60834
+Granville;North Carolina;37077;60115;11076
+Guilford;North Carolina;37081;533670;81087
+Harnett;North Carolina;37085;134214;2191
+Henderson;North Carolina;37089;116748;30457
+Hoke;North Carolina;37093;54764;13625
+Iredell;North Carolina;37097;178435;30065
+Johnston;North Carolina;37101;202675;24159
+Lee;North Carolina;37105;61452;23582
+Lincoln;North Carolina;37109;83770;27335
+Mecklenburg;North Carolina;37119;1093901;201265
+Moore;North Carolina;37125;98682;13704
+Nash;North Carolina;37127;94016;17395
+New Hanover;North Carolina;37129;232274;117071
+Onslow;North Carolina;37133;197683;25423
+Orange;North Carolina;37135;146027;35918
+Pasquotank;North Carolina;37139;39639;17401
+Pitt;North Carolina;37147;179914;27205
+Robeson;North Carolina;37155;131831;14058
+Rowan;North Carolina;37159;141262;273
+Sampson;North Carolina;37163;63626;6728
+Scotland;North Carolina;37165;34810;11059
+Stanly;North Carolina;37167;62075;15469
+Union;North Carolina;37179;235908;35897
+Vance;North Carolina;37181;44582;17546
+Wake;North Carolina;37183;1092305;125303
+Watauga;North Carolina;37189;55945;17314
+Wayne;North Carolina;37191;123248;2242
+Wilson;North Carolina;37195;81455;22092
+Burleigh;North Dakota;38015;95273;5741
+Cass;North Dakota;38017;181516;987
+Morton;North Dakota;38059;31095;1586
+Pierce;North Dakota;38069;4081;413
+Ramsey;North Dakota;38071;11481;974
+Walsh;North Dakota;38099;10667;843
+Ward;North Dakota;38101;67744;3429
+Ashland;Ohio;39005;53745;12644
+Ashtabula;Ohio;39007;97493;13981
+Belmont;Ohio;39013;67505;12868
+Butler;Ohio;39017;382378;80995
+Carroll;Ohio;39019;27081;6989
+Clark;Ohio;39023;134585;34014
+Clermont;Ohio;39025;205466;44949
+Clinton;Ohio;39027;42057;10251
+Columbiana;Ohio;39029;102665;19553
+Coshocton;Ohio;39031;36629;6486
+Cuyahoga;Ohio;39035;1243857;274236
+Darke;Ohio;39037;51323;865
+Defiance;Ohio;39039;38165;9303
+Delaware;Ohio;39041;204826;44462
+Erie;Ohio;39043;74615;29868
+Franklin;Ohio;39049;1310300;239639
+Gallia;Ohio;39053;29979;6472
+Geauga;Ohio;39055;94031;23481
+Greene;Ohio;39057;167995;40077
+Hamilton;Ohio;39061;816684;200053
+Hancock;Ohio;39063;75930;14245
+Huron;Ohio;39077;58504;11894
+Knox;Ohio;39083;61893;11649
+Lake;Ohio;39085;230514;101125
+Licking;Ohio;39089;175769;25244
+Logan;Ohio;39091;45358;9883
+Lorain;Ohio;39093;309461;62454
+Lucas;Ohio;39095;429899;126851
+Madison;Ohio;39097;44413;9442
+Mahoning;Ohio;39099;229642;56135
+Marion;Ohio;39101;65256;16184
+Medina;Ohio;39103;179146;42068
+Miami;Ohio;39109;106222;25776
+Montgomery;Ohio;39113;532331;11527
+Portage;Ohio;39133;162927;33371
+Richland;Ohio;39139;121099;24497
+Sandusky;Ohio;39143;58799;14518
+Stark;Ohio;39151;371574;64922
+Summit;Ohio;39153;541918;131269
+Trumbull;Ohio;39155;198627;32637
+Tuscarawas;Ohio;39157;92176;163
+Union;Ohio;39159;57835;12891
+Warren;Ohio;39165;232173;56456
+Washington;Ohio;39167;60155;96
+Wood;Ohio;39173;130696;21052
+Canadian;Oklahoma;40017;144447;15247
+Cleveland;Oklahoma;40027;281669;51364
+Custer;Oklahoma;40039;29036;2954
+Garvin;Oklahoma;40049;27811;3469
+Grady;Oklahoma;40051;55551;4973
+Jackson;Oklahoma;40065;24949;3163
+Kay;Oklahoma;40071;44161;488
+Logan;Oklahoma;40083;47291;619
+McClain;Oklahoma;40087;39985;677
+Muskogee;Oklahoma;40101;68362;8524
+Noble;Oklahoma;40103;11289;1559
+Oklahoma;Oklahoma;40109;792582;110332
+Pawnee;Oklahoma;40117;16390;2892
+Payne;Oklahoma;40119;82040;11905
+Pontotoc;Oklahoma;40123;38247;5324
+Tulsa;Oklahoma;40143;648360;11272
+Washington;Oklahoma;40147;51843;12517
+Benton;Oregon;41003;92101;13282
+Clackamas;Oregon;41005;416075;21696
+Deschutes;Oregon;41017;191996;5985
+Douglas;Oregon;41019;110283;2151
+Grant;Oregon;41023;7176;159
+Hood River;Oregon;41027;23428;4432
+Jackson;Oregon;41029;219564;7698
+Josephine;Oregon;41033;87393;5213
+Klamath;Oregon;41035;67653;1116
+Lane;Oregon;41039;379611;8102
+Linn;Oregon;41043;127335;5365
+Marion;Oregon;41047;346868;28381
+Multnomah;Oregon;41051;811880;185173
+Polk;Oregon;41053;85234;10992
+Umatilla;Oregon;41059;77516;2391
+Union;Oregon;41061;26461;1278
+Washington;Oregon;41067;597695;80336
+Yamhill;Oregon;41071;107002;14503
+Adams;Pennsylvania;42001;102811;1967
+Allegheny;Pennsylvania;42003;1218452;167868
+Beaver;Pennsylvania;42007;164742;38392
+Berks;Pennsylvania;42011;420152;48644
+Bucks;Pennsylvania;42017;628195;103651
+Butler;Pennsylvania;42019;187888;23658
+Cambria;Pennsylvania;42021;131730;19547
+Centre;Pennsylvania;42027;162805;14545
+Chester;Pennsylvania;42029;522046;68907
+Columbia;Pennsylvania;42037;65456;13707
+Cumberland;Pennsylvania;42041;251423;45362
+Dauphin;Pennsylvania;42043;277097;52284
+Delaware;Pennsylvania;42045;564751;306525
+Erie;Pennsylvania;42049;272061;34533
+Fayette;Pennsylvania;42051;130441;16738
+Franklin;Pennsylvania;42055;154835;1991
+Lackawanna;Pennsylvania;42069;210793;46061
+Lancaster;Pennsylvania;42071;543557;5704
+Lebanon;Pennsylvania;42075;141314;38325
+Lehigh;Pennsylvania;42077;368100;105055
+Luzerne;Pennsylvania;42079;317646;35704
+Mercer;Pennsylvania;42085;110683;16746
+Monroe;Pennsylvania;42089;169507;27551
+Montgomery;Pennsylvania;42091;828604;170028
+Montour;Pennsylvania;42093;18240;14046
+Northampton;Pennsylvania;42095;304807;81634
+Philadelphia;Pennsylvania;42101;1584138;1174873
+Pike;Pennsylvania;42103;55933;10184
+Potter;Pennsylvania;42105;16622;1566
+Schuylkill;Pennsylvania;42107;142067;18437
+Washington;Pennsylvania;42125;207346;24218
+Wayne;Pennsylvania;42127;51276;7102
+Westmoreland;Pennsylvania;42129;350611;34524
+York;Pennsylvania;42133;448273;49107
+Abbeville;South Carolina;45001;24541;5027
+Aiken;South Carolina;45003;169401;15585
+Anderson;South Carolina;45007;200482;27396
+Beaufort;South Carolina;45013;188715;31696
+Berkeley;South Carolina;45015;221091;19026
+Calhoun;South Carolina;45017;14520;386
+Charleston;South Carolina;45019;405905;43086
+Chester;South Carolina;45023;32251;5567
+Clarendon;South Carolina;45027;33700;5605
+Colleton;South Carolina;45029;37660;3556
+Darlington;South Carolina;45031;66802;11985
+Dillon;South Carolina;45033;30599;7625
+Dorchester;South Carolina;45035;160647;27122
+Edgefield;South Carolina;45037;27052;5349
+Fairfield;South Carolina;45039;22402;3309
+Florence;South Carolina;45041;138159;17321
+Georgetown;South Carolina;45043;62249;7572
+Greenville;South Carolina;45045;514213;63481
+Greenwood;South Carolina;45047;70741;15452
+Horry;South Carolina;45051;344147;28302
+Jasper;South Carolina;45053;28971;4257
+Kershaw;South Carolina;45055;65592;8858
+Lancaster;South Carolina;45057;95380;16306
+Lee;South Carolina;45061;17142;4292
+Lexington;South Carolina;45063;295032;40966
+Marlboro;South Carolina;45069;26398;5656
+Newberry;South Carolina;45071;38520;6042
+Oconee;South Carolina;45073;78374;12245
+Orangeburg;South Carolina;45075;86934;7997
+Pickens;South Carolina;45077;124937;24727
+Richland;South Carolina;45079;414576;53927
+Saluda;South Carolina;45081;20544;4483
+Spartanburg;South Carolina;45083;313888;37404
+Sumter;South Carolina;45085;106512;16088
+York;South Carolina;45091;274118;38002
+Beadle;South Dakota;46005;18883;146
+Bon Homme;South Dakota;46009;6980;1236
+Brown;South Dakota;46013;39316;2267
+Charles Mix;South Dakota;46023;9338;851
+Codington;South Dakota;46029;28015;4066
+Davison;South Dakota;46035;19790;4569
+Hughes;South Dakota;46065;17650;2376
+Lyman;South Dakota;46085;3821;236
+McCook;South Dakota;46087;5546;96
+Minnehaha;South Dakota;46099;192876;23137
+Pennington;South Dakota;46103;111729;3936
+Anderson;Tennessee;47001;76482;22474
+Blount;Tennessee;47009;131349;22989
+Bradley;Tennessee;47011;106727;31803
+Campbell;Tennessee;47013;39583;8265
+Carroll;Tennessee;47017;28020;4675
+Cheatham;Tennessee;47021;40439;13202
+Chester;Tennessee;47023;17276;6002
+Cocke;Tennessee;47029;35774;8131
+Cumberland;Tennessee;47035;59673;861
+Davidson;Tennessee;47037;692587;135709
+Dickson;Tennessee;47043;53446;10612
+Dyer;Tennessee;47045;37320;7334
+Fayette;Tennessee;47047;40507;5632
+Franklin;Tennessee;47051;41890;7486
+Gibson;Tennessee;47053;49045;8159
+Greene;Tennessee;47059;69087;11037
+Hamblen;Tennessee;47063;64569;39546
+Hamilton;Tennessee;47065;364286;65915
+Houston;Tennessee;47083;8263;4082
+Jefferson;Tennessee;47089;54012;19428
+Knox;Tennessee;47093;465289;89762
+Loudon;Tennessee;47105;53054;22516
+McMinn;Tennessee;47107;53285;12269
+Marion;Tennessee;47115;28575;5704
+Maury;Tennessee;47119;94340;14642
+Monroe;Tennessee;47123;46357;7218
+Montgomery;Tennessee;47125;205950;36423
+Perry;Tennessee;47135;8064;1908
+Putnam;Tennessee;47141;78843;19057
+Roane;Tennessee;47145;53140;14665
+Robertson;Tennessee;47147;71012;14559
+Rutherford;Tennessee;47149;324890;49588
+Scott;Tennessee;47151;22039;4124
+Sevier;Tennessee;47155;97892;16251
+Shelby;Tennessee;47157;935764;122777
+Sullivan;Tennessee;47163;157668;37917
+Sumner;Tennessee;47165;187149;33898
+Tipton;Tennessee;47167;61581;13405
+Washington;Tennessee;47179;128607;38918
+Williamson;Tennessee;47187;231729;3753
+Wilson;Tennessee;47189;140625;23241
+Bastrop;Texas;48021;86976;9298
+Bell;Texas;48027;355642;32562
+Bexar;Texas;48029;1986049;155334
+Bowie;Texas;48037;94324;10605
+Brazoria;Texas;48039;370200;26073
+Brazos;Texas;48041;226758;3744
+Brown;Texas;48049;37924;4006
+Cameron;Texas;48061;423908;47339
+Cass;Texas;48067;30119;3211
+Castro;Texas;48069;7665;871
+Collin;Texas;48085;1005146;112259
+Crane;Texas;48103;4794;616
+Dallas;Texas;48113;2637772;296868
+Deaf Smith;Texas;48117;18760;1263
+Denton;Texas;48121;859064;91874
+DeWitt;Texas;48123;20187;2248
+Ellis;Texas;48139;179436;18048
+El Paso;Texas;48141;840758;82715
+Fannin;Texas;48147;35286;3836
+Fort Bend;Texas;48157;787858;85822
+Galveston;Texas;48167;337890;8645
+Gregg;Texas;48183;123707;45186
+Harris;Texas;48201;4698619;270184
+Hays;Texas;48209;222631;30112
+Hockley;Texas;48219;22980;255
+Johnson;Texas;48251;171361;22558
+Lavaca;Texas;48285;20110;2056
+Lubbock;Texas;48303;307412;33659
+McLennan;Texas;48309;254607;23954
+Matagorda;Texas;48321;36552;3339
+Medina;Texas;48325;50921;3722
+Midland;Texas;48329;172578;18238
+Montgomery;Texas;48339;590925;53223
+Morris;Texas;48343;12339;493
+Oldham;Texas;48359;2131;139
+Potter;Texas;48375;119648;13309
+Rusk;Texas;48401;54450;58
+Smith;Texas;48423;230221;2442
+Tarrant;Texas;48439;2084931;2339
+Travis;Texas;48453;1248743;121507
+Upshur;Texas;48459;41260;6994
+Van Zandt;Texas;48467;56019;6453
+Webb;Texas;48479;275910;8093
+Wichita;Texas;48485;132064;20998
+Williamson;Texas;48491;566719;4713
+Box Elder;Utah;49003;54950;922
+Cache;Utah;49005;127068;10503
+Davis;Utah;49011;351713;114005
+Iron;Utah;49021;52775;1507
+Salt Lake;Utah;49035;1152633;150995
+Summit;Utah;49043;41933;2164
+Tooele;Utah;49045;69907;939
+Utah;Utah;49049;622213;29471
+Wasatch;Utah;49051;33240;2597
+Washington;Utah;49053;171700;6616
+Weber;Utah;49057;256359;43003
+Addison;Vermont;50001;36973;482
+Bennington;Vermont;50003;35631;5322
+Chittenden;Vermont;50007;164572;30201
+Franklin;Vermont;50011;49421;7736
+Orange;Vermont;50017;28999;4212
+Rutland;Vermont;50021;58672;6375
+Washington;Vermont;50023;58140;8509
+Windham;Vermont;50025;42756;5495
+Windsor;Vermont;50027;55286;5718
+Accomack;Virginia;51001;32412;7284
+Albemarle;Virginia;51003;108718;14757
+Amherst;Virginia;51009;31666;6727
+Arlington;Virginia;51013;237521;892426
+Bedford;Virginia;51019;78747;10346
+Botetourt;Virginia;51023;33277;6139
+Charles City;Virginia;51036;6941;3826
+Chesterfield;Virginia;51041;348556;80191
+Culpeper;Virginia;51047;51859;13303
+Fairfax;Virginia;51059;1150795;292486
+Fluvanna;Virginia;51065;26783;9189
+Franklin;Virginia;51067;56195;8145
+Gloucester;Virginia;51073;37349;17061
+Goochland;Virginia;51075;23244;7989
+Hanover;Virginia;51085;107239;22293
+Henrico;Virginia;51087;329261;139344
+Isle of Wight;Virginia;51093;36953;11524
+James City;Virginia;51095;76397;5206
+Lee;Virginia;51105;23541;5541
+Loudoun;Virginia;51107;406850;74704
+Louisa;Virginia;51109;36778;7129
+Mecklenburg;Virginia;51117;30650;4932
+Prince Edward;Virginia;51147;22950;656
+Prince William;Virginia;51153;468011;135775
+Rockbridge;Virginia;51163;22752;3767
+Rockingham;Virginia;51165;81244;9356
+Spotsylvania;Virginia;51177;134238;32731
+Stafford;Virginia;51179;149960;53545
+York;Virginia;51199;67846;64504
+Alexandria city;Virginia;51510;160530;1041492
+Charlottesville city;Virginia;51540;48117;459466
+Danville city;Virginia;51590;40693;96688
+Harrisonburg city;Virginia;51660;54033;306526
+Newport News city;Virginia;51700;178626;262167
+Norfolk city;Virginia;51710;244076;453788
+Portsmouth city;Virginia;51740;94632;28322
+Richmond city;Virginia;51760;228783;374193
+Suffolk city;Virginia;51800;91185;22281
+Virginia Beach city;Virginia;51810;450189;180765
+Williamsburg city;Virginia;51830;14896;16391
+Adams;Washington;53001;19759;1011
+Benton;Washington;53005;201877;11419
+Chelan;Washington;53007;77036;2594
+Clallam;Washington;53009;76737;4285
+Clark;Washington;53011;481857;73987
+Columbia;Washington;53013;4059;461
+Cowlitz;Washington;53015;108987;9219
+Douglas;Washington;53017;42907;2274
+Franklin;Washington;53021;94347;7299
+Grant;Washington;53025;97331;354
+Grays Harbor;Washington;53027;73901;3784
+Island;Washington;53029;84460;39164
+Jefferson;Washington;53031;31729;1711
+King;Washington;53033;2233163;102254
+Kitsap;Washington;53035;269805;66459
+Kittitas;Washington;53037;47364;1951
+Klickitat;Washington;53039;22107;1143
+Lewis;Washington;53041;79604;3202
+Lincoln;Washington;53043;10740;452
+Mason;Washington;53045;65507;6528
+Pierce;Washington;53053;891299;51503
+San Juan;Washington;53055;17128;9472
+Skagit;Washington;53057;128206;7157
+Snohomish;Washington;53061;814901;37686
+Spokane;Washington;53063;514631;28228
+Stevens;Washington;53065;45260;1784
+Thurston;Washington;53067;286419;38047
+Walla Walla;Washington;53071;60922;4743
+Whatcom;Washington;53073;225685;10291
+Whitman;Washington;53075;49791;2251
+Yakima;Washington;53077;251446;5804
+Jackson;West Virginia;54035;28706;6249
+Jefferson;West Virginia;54037;56811;26799
+Kanawha;West Virginia;54039;180454;20598
+Marshall;West Virginia;54051;30785;10361
+Mercer;West Virginia;54055;59131;14436
+Monongalia;West Virginia;54061;106420;29232
+Putnam;West Virginia;54079;56682;16389
+Tucker;West Virginia;54093;6955;1677
+Bayfield;Wisconsin;55007;15042;1014
+Brown;Wisconsin;55009;263378;49043
+Calumet;Wisconsin;55015;50159;15651
+Chippewa;Wisconsin;55017;64135;6311
+Columbia;Wisconsin;55021;57358;744
+Dane;Wisconsin;55025;542364;44255
+Dodge;Wisconsin;55027;87847;10024
+Douglas;Wisconsin;55031;43208;3328
+Dunn;Wisconsin;55033;45131;5234
+Eau Claire;Wisconsin;55035;104534;16143
+Fond du Lac;Wisconsin;55039;103066;14219
+Green;Wisconsin;55045;36929;6313
+Jefferson;Wisconsin;55055;85129;15212
+Kenosha;Wisconsin;55059;169290;61888
+La Crosse;Wisconsin;55063;118230;26091
+Marathon;Wisconsin;55073;135428;8755
+Milwaukee;Wisconsin;55079;948201;395278
+Outagamie;Wisconsin;55087;187365;2898
+Ozaukee;Wisconsin;55089;89147;37878
+Pierce;Wisconsin;55093;42555;7251
+Racine;Wisconsin;55101;196584;58766
+Rock;Wisconsin;55105;163129;22526
+St. Croix;Wisconsin;55109;89694;12171
+Sauk;Wisconsin;55111;64249;7654
+Sheboygan;Wisconsin;55117;115456;22533
+Walworth;Wisconsin;55127;103718;18557
+Washington;Wisconsin;55131;135693;31236
+Waukesha;Wisconsin;55133;403072;7258
+Winnebago;Wisconsin;55139;171020;3911
+Wood;Wisconsin;55141;73055;9239
+Campbell;Wyoming;56005;46140;993
+Carbon;Wyoming;56007;14971;196
+Fremont;Wyoming;56013;39531;436
+Laramie;Wyoming;56021;98976;3637
+Natrona;Wyoming;56025;79115;1509
+Park;Wyoming;56029;29324;419
+Sheridan;Wyoming;56033;30233;1189
+Teton;Wyoming;56039;23081;577
+Washakie;Wyoming;56043;7885;363
