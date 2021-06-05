@@ -1,5 +1,4 @@
-﻿"Title: Population Distribution by Race/Ethnicity | KFF"
-"Timeframe: 2015"
+
 "Location","White","Black","Hispanic","Asian","American Indian/Alaska Native","Native Hawaiian/Other Pacific Islander","Multiple Races","Total"
 "Alabama","0.662","0.265","0.040","0.012","<.01","N/A","0.018","1.000"
 "Alaska","0.615","0.032","0.067","0.069","0.140","<.01","0.072","1.000"
@@ -54,17 +53,5 @@
 "Wyoming","0.843","0.010","0.099","0.010","0.019","N/A","0.024","1.000"
 "Puerto Rico","0.010","<.01","0.989","N/A","N/A","N/A","<.01","1.000"
 
-"Notes"
-"Population and demographic data on are based on analysis of the Census Bureau’s American Community Survey (ACS) and may differ from other population estimates published yearly by the Census Bureau. U.S. and state population data displayed on this site are restricted to the civilian, non-institutionalized population for whom ACS collects and reports poverty information. "
-""
-"Population numbers are rounded to the nearest 100."
-
-"Sources"
-"KFF estimates based on the 2008-2019 American Community Survey, 1-Year Estimates."
-
-"Definitions"
-"*N/A*: Estimates with relative standard errors greater than 30% are not provided."
-""
-"Persons of Hispanic origin may be of any race; all other racial/ethnic groups are non-Hispanic."
 
 
